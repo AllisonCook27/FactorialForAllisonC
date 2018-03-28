@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\FactorialForAllisonC\FactorialForAllisonC\obj\Debug\FactorialForAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\FactorialForAllisonC\FactorialForAllisonC\obj\Debug\FactorialForAllisonC.frmFactorialFor.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\FactorialForAllisonC\FactorialForAllisonC\obj\Debug\FactorialForAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\FactorialForAllisonC\FactorialForAllisonC\obj\Debug\FactorialForAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\FactorialForAllisonC\FactorialForAllisonC\bin\Debug\FactorialForAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\FactorialForAllisonC\FactorialForAllisonC\bin\Debug\FactorialForAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\FactorialForAllisonC\FactorialForAllisonC\bin\Debug\FactorialForAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\FactorialForAllisonC\FactorialForAllisonC\obj\Debug\FactorialForAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\FactorialForAllisonC\FactorialForAllisonC\obj\Debug\FactorialForAllisonC.pdb
